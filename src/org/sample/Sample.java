@@ -10,5 +10,9 @@ public class Sample {
 		System.out.println("6723832832");
 
 	}
+	private void salary() {
+		System.out.println("6723");
+
+	}
 
 }
