@@ -10,5 +10,10 @@ public class Sample {
 		System.out.println("6723832832");
 
 	}
+	private void pho() {
+		System.out.println("6456452643");
+
+	}
+	
 
 }
