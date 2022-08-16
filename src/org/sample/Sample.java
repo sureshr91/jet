@@ -14,6 +14,10 @@ public class Sample {
 		System.out.println("6456452643");
 
 	}
+	private void accNo () {
+		System.out.println("1154526456452643");
+
+	}
 	
 
 }
